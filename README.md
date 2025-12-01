@@ -6,8 +6,6 @@
 -->
 
 # 👻 sud0gh0st-pwn
-
-**Hacker at heart. Privacy evangelist. Code ninja.**
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=sud0gh0st-pwn&style=for-the-badge&color=blue)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Powered-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
@@ -15,6 +13,10 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-WM-58a6ff?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Offensive-7e00ff?style=for-the-badge)
+<br>
+**Hacker at heart. Privacy evangelist. Code ninja.**
+
+
 
 ---
 
