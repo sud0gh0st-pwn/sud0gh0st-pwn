@@ -8,6 +8,7 @@
 # 👻 sud0gh0st-pwn
 
 **Hacker at heart. Privacy evangelist. Code ninja.**
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=sud0gh0st-pwn&style=for-the-badge&color=blue)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Powered-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
