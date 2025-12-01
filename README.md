@@ -8,6 +8,12 @@
 # 👻 sud0gh0st-pwn
 
 **Hacker at heart. Privacy evangelist. Code ninja.**
+![Profile Views](https://komarev.com/ghpvc/?username=sud0gh0st-pwn&style=for-the-badge&color=blue)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Powered-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-WM-58a6ff?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Offensive-7e00ff?style=for-the-badge)
 
 ---
 
@@ -24,10 +30,6 @@
 ### [T3mp0ra_C2](https://github.com/sud0gh0st-pwn/T3mp0ra_C2)
 A stealthy command-and-control (C2) framework built in Python.  
 _Dispatch payloads. Manage bots. Ghost in the shell._
-
-### [HackHub](https://github.com/sud0gh0st-pwn/HackHub)
-A central nexus for pen-test tools & scripts.  
-_Drop your exploits. Share the knowledge. Own the network._
 
 ---
 
