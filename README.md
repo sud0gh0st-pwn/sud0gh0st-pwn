@@ -5,19 +5,13 @@
   ***********************************************
 -->
 
+
 # 👻 sud0gh0st-pwn
 **Hacker at heart. Privacy evangelist. Code ninja.**
 
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&vCenter=true&width=600&lines=Ghost+in+the+machine...;Building+C2+Frameworks...;Breaking+the+Unbreakable...)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sud0gh0st-pwn&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-Powered-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-WM-58a6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Offensive-7e00ff?style=for-the-badge" />
-</p>
-
----
+━━━━━━━━━━━ 👻 ━━━━━━━━━━━
 
 ## ⚙️ Tech Arsenal
 
@@ -25,7 +19,7 @@
 - **Current Obsession:** Cybersecurity & ethical hacking  
 - **Rig:** Arch Linux w/ Hyperland & custom trix… because systemd is for the weak.
 
----
+━━━━━━━━━━━ 👻 ━━━━━━━━━━━
 
 ## 🔥 Signature Projects
 
@@ -33,14 +27,14 @@
 A stealthy command-and-control (C2) framework built in Python.  
 _Dispatch payloads. Manage bots. Ghost in the shell._
 
----
+━━━━━━━━━━━ 👻 ━━━━━━━━━━━
 
 ## 🛡️ Motivations & Values
 
 I code to protect privacy and shred vulnerabilities—because true freedom is untraceable.  
 Long-time member of **Anonymous**—where collective power meets the pixelated frontier.
 
----
+━━━━━━━━━━━ 👻 ━━━━━━━━━━━
 
 ## 🎭 The Persona
 
@@ -49,7 +43,7 @@ Long-time member of **Anonymous**—where collective power meets the pixelated f
 
 – A creed. A lifestyle. A state of mind.
 
----
+━━━━━━━━━━━ 👻 ━━━━━━━━━━━
 
 <details>
 <summary>💡 Fun Facts</summary>
@@ -60,6 +54,6 @@ Long-time member of **Anonymous**—where collective power meets the pixelated f
 
 </details>
 
----
+━━━━━━━━━━━ 👻 ━━━━━━━━━━━
 
 <sub>Profile powered by late-night caffeine and a relentless drive to break the unbreakable.</sub>
